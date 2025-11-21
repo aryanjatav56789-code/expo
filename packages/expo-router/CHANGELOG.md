@@ -23,6 +23,7 @@
 ### 🐛 Bug fixes
 
 - Fix dynamic updates of headless tabs ([#40352](https://github.com/expo/expo/pull/40352) by [@Ubax](https://github.com/Ubax))
+- prevent onPreviewTapped from firing, when there is no preview ([#41160](https://github.com/expo/expo/pull/41160) by [@Ubax](https://github.com/Ubax))
 
 ### 💡 Others
 
